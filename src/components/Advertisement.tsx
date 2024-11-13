@@ -13,12 +13,9 @@ function Advertisement(props: AdvertisementProps) {
     </div>
   );
 }
-<div>
-  <p>hello!</p>
-</div>
-<div>
-  <p>hello!</p>
-</div>
+
+
+
 
 
 
