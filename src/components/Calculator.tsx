@@ -33,6 +33,7 @@ export default function Calculator() {
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -45,3 +46,5 @@ export default function Calculator() {
 
 
 
+=======
+>>>>>>> 88647912d90cf56be3bd477dfb3c0dd47cbe0530
